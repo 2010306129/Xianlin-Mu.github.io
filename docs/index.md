@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# 穆献霖 movie！！！
 
-You can use the [editor on GitHub](https://github.com/2010306129/Xianlin-Mu.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## 个人简历
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2002——2014
 
-### Markdown
+2002年出生于重庆市北碚区，在一个宁静的城区里长大，先后就读于北碚区实验幼儿园、北碚区人民路小学。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2014——2017
 
-```markdown
-Syntax highlighted code block
+2014年经过入学考试进入了重庆市第八中学宏帆初级中学，就读于初一12班。2015年选入“2+4课改实验班”31班。
 
-# Header 1
-## Header 2
-### Header 3
+### 2017——2020
 
-- Bulleted
-- List
+2017年以中考711.5分的成绩进入重庆市第八中学高中部学习。
 
-1. Numbered
-2. List
+### 2020至今
 
-**Bold** and _Italic_ and `Code` text
+2020年以高考691分的成绩进入北京大学医学部学习。
 
-[Link](url) and ![Image](src)
-```
+## 暂时的感想
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 联系方式
 
-### Jekyll Themes
+Tel：13618302623 邮箱：1393657558@qq.com
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2010306129/Xianlin-Mu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Bold and Italic and Code text
 
-### Support or Contact
+Link and Image
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##
